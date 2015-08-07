@@ -7,7 +7,7 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 | 30/07/15 | :white_check_mark:  | :white_check_mark:  |
 | 31/07/15 | :white_check_mark:<sup>1</sup> | :white_check_mark: |
 | 01/08/15 | :white_check_mark: | :white_check_mark:<sup>2</sup> |
-| 02/08/15 | :white_check_mark: | :no_entry:<sup>*</sup> |
+| 02/08/15 | :white_check_mark: | :warning: |
 | 03/08/15 | :white_check_mark: | :white_check_mark: |
 | 04/08/15 | :white_check_mark: | :white_check_mark: |
 | 05/08/15 | :white_check_mark: | :white_check_mark: |
@@ -34,4 +34,10 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 
 ---
 
-* <sup>*</sup> : Was adviced to leave at least 1 day off to let my body recover
+* <sup>:warning:</sup> : Was adviced to leave at least 1 day off to let my body recover
+
+===
+
+## #31DaysTo5MinutePlankChallenge
+
+So yeah; I decided to also add [this challenge](https://github.com/esttorhe/-30DaysTo5MinutePlankChallenge) to the mix :muscle:
