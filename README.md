@@ -13,9 +13,9 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 |  8 | 05/08/15 | :white_check_mark: | :white_check_mark: |
 |  9 | 06/08/15 | :white_check_mark: | :white_check_mark: |
 | 10 | 07/08/15 | :white_check_mark:<sup>1</sup> | :white_check_mark: |
-| 11 | 08/08/15 | | |
-| 12 | 09/08/15 | | |
-| 13 | 10/08/15 | | |
+| 11 | 08/08/15 | :white_check_mark:<sup>3</sup> | :white_check_mark: |
+| 12 | 09/08/15 | :white_check_mark:<sup>3</sup> | :warning: |
+| 13 | 10/08/15 |  | :white_check_mark: |
 | 14 | 11/08/15 | | |
 | 15 | 12/08/15 | | |
 | 16 | 13/08/15 | | |
@@ -29,8 +29,9 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 
 --- 
 
-* <sup>1</sup> : Ate carbs at night :moon:
+* <sup>1</sup> : :bread: Ate carbs at night :moon:
 * <sup>2</sup> : No :muscle: gym today but ran 25 minutes.
+* <sup>3</sup> : :bread: Ate some carbs at lunch
 
 ---
 
