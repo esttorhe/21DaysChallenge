@@ -15,8 +15,8 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 | 10 | 07/08/15 | :white_check_mark:<sup>1</sup> | :white_check_mark: |
 | 11 | 08/08/15 | :white_check_mark:<sup>3</sup> | :white_check_mark: |
 | 12 | 09/08/15 | :white_check_mark:<sup>3</sup> | :warning: |
-| 13 | 10/08/15 |  | :white_check_mark: |
-| 14 | 11/08/15 | | |
+| 13 | 10/08/15 | :white_check_mark: | :white_check_mark: |
+| 14 | 11/08/15 | :white_check_mark: | :white_check_mark: |
 | 15 | 12/08/15 | | |
 | 16 | 13/08/15 | | |
 | 17 | 14/08/15 | | |
