@@ -22,8 +22,8 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 | 17 | 14/08/15 | :white_check_mark: | :white_check_mark: |
 | 18 | 15/08/15 | :white_check_mark:<sup>3</sup> | :white_check_mark: |
 | 19 | 16/08/15 | :white_check_mark:<sup>1, 3</sup> | :white_check_mark: |
-| 20 | 17/08/15 | | :white_check_mark: |
-| 21 | 18/08/15 | | |
+| 20 | 17/08/15 | :white_check_mark:<sup>3</sup> | :white_check_mark: |
+| 21 | 18/08/15 | :white_check_mark:<sup>3</sup> | :white_check_mark: |
 
 [Blog post explaining it all](http://estebantorr.es/blog/2015/07/30/21DaysChallenge/)
 
