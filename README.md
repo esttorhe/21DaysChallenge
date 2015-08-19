@@ -42,3 +42,16 @@ Tracking my **`#21DaysChallenge`** to get back on diet :herb: and exercise :musc
 ## #31DaysTo5MinutePlankChallenge
 
 So yeah; I decided to also add [this challenge](https://github.com/esttorhe/-30DaysTo5MinutePlankChallenge) to the mix :muscle:
+
+===
+
+# Conclusion
+
+In the end I ended up «failling» towards the last couple of days; this was due to Mother's Day here in Costa Rica and having to celebrate with my gf and my mom but I managed pretty well I think.
+
+Overall the whole idea of the experiment was to mentally change my way of seeing the diet and making it a habit which I think I succeeded.
+
+I'm now more capable of sticking to the diet and more so because after only 21 days I'm seeing results :)
+Now I get up early in the morning with energy to go to the gym which is awesome.
+
+:tada:
